@@ -48,7 +48,7 @@ Essa aplicação deverá ser feita apenas com o **[NodeJS](https://github.com/no
 
 
 
-![](./frontend/GIFs/listando-repositorios.gif)
+![](./GIFs/listando-repositorios.gif)
 
 
 
@@ -56,7 +56,7 @@ Essa aplicação deverá ser feita apenas com o **[NodeJS](https://github.com/no
 
 
 
-![](./frontend/GIFs/criando-repositorios.gif)
+![](./GIFs/criando-repositorios.gif)
 
 
 
@@ -64,7 +64,7 @@ Essa aplicação deverá ser feita apenas com o **[NodeJS](https://github.com/no
 
 
 
-![](./frontend/GIFs/removendo-repositorios.gif)
+![](./GIFs/removendo-repositorios.gif)
 
 
 
@@ -72,7 +72,7 @@ Essa aplicação deverá ser feita apenas com o **[NodeJS](https://github.com/no
 
 
 
-![](./frontend/GIFs/tests.gif)
+![](./GIFs/tests.gif)
 
 
 
